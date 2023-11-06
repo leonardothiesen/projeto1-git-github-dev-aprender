@@ -5,3 +5,4 @@ Nova linha,
 Alterando o arquivo para testar a mudança de branch
 
 teste
+gf
